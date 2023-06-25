@@ -4,7 +4,7 @@ import { StyleSheet,
    Text, 
    View,
    TextInput,
-   TouchableOpacity,Image } from 'react-native';
+   TouchableOpacity, } from 'react-native';
 
 
    export const Login = () =>{

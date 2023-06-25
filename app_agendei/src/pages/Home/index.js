@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState } from 'react';
-import { SafeAreaView, StatusBar, View, Text, StyleSheet, ActivityIndicator, Image, ImageBackground } from 'react-native';
+import { SafeAreaView, StatusBar , StyleSheet, ActivityIndicator, Image, } from 'react-native';
 import logoImage from'../../../assets/icon.png'
 
 
